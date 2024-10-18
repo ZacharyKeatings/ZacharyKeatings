@@ -12,12 +12,22 @@ I'm experienced in:
 
 - **Languages**: Python, JavaScript, Java, PHP, Ruby, Lua, C#, Shell, ASP.net
 - **Frontend**: HTML5, CSS3, JavaScript
-- **Backend**: Node.js, PHP, ASP.net Core, Spring Boot
+- **Backend**: Node.js, Express.js, PHP, ASP.net Core, Spring Boot
 - **Mobile Development**: Android Studio, Java, Kotlin
 - **Databases**: MySQL, PostgreSQL, MongoDB
 - **Tools & Platforms**: Git, GitHub, Linux, Docker, Godot
 - **Testing & Debugging**: Postman, Pytest, JUnit, GitHub Actions
 - **Project Management**: Certified in **Scrum Fundamentals** for agile development practices.
+
+---
+
+## 🤖 Machine Learning & Data Science
+
+ - Libraries & Tools:
+    - Python: NumPy, pandas, scikit-learn, matplotlib
+    - Data Processing: Data cleaning, feature engineering, exploratory data analysis (EDA)
+    - Machine Learning: Classification, regression, clustering, model evaluation
+    - Visualization: Data visualization using matplotlib for insights and reports
 
 ---
 
@@ -40,6 +50,7 @@ A simple eCommerce site featuring items for sale with display name, description,
 - **Game development**: Currently working with **Godot** to develop 2D games using **GDScript** and **C#**.
 - **Web development**: Exploring new JavaScript frameworks and working on a new freelance project management solution at **LancersHub**.
 - **Mobile development**: Currently building Android apps using **Android Studio** with Java/Kotlin.
+- **Machine Learning**: Learning Exploratory Data Analysis (EDA), model building, and evaluation using Python libraries like NumPy, pandas, scikit-learn, and matplotlib.
 - **Agile methodologies**: Applying **Scrum** principles to streamline development workflows and improve project outcomes.
 - **New technologies**: Always exploring new tools and staying up-to-date with the latest trends in software development.
 
