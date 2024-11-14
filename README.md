@@ -11,12 +11,18 @@ Welcome to my GitHub profile! While most of my work is in private repositories, 
 I'm experienced in:
 
 - **Languages**: Python, JavaScript, Java, PHP, Ruby, Lua, C#, Shell, ASP.net
-- **Frontend**: HTML5, CSS3, JavaScript
+- **Frontend**: HTML5, CSS3, JavaScript, React
 - **Backend**: Node.js, Express.js, PHP, ASP.net Core, Spring Boot
-- **Mobile Development**: Android Studio, Java, Kotlin
+- **Mobile Development**: Android Studio, Java, Kotlin, React Native, Expo
 - **Databases**: MySQL, PostgreSQL, MongoDB
-- **Tools & Platforms**: Git, GitHub, Linux, Docker, Godot
-- **Testing & Debugging**: Postman, Pytest, JUnit, GitHub Actions
+- **Cloud & DevOps**: Microsoft Azure, AWS EC2, Docker, Docker Compose
+- **Tools & Platforms**:
+  - **Version Control**: Git, GitHub
+  - **Operating Systems**: Linux, Windows, MacOS
+  - **CI/CD & Automation**: GitHub Actions, Jenkins
+  - **Game Development**: Godot Engine
+  - **Virtualization & Containers**: VMWare Workstation, Docker, VirtualBox
+- **Testing & Debugging**: Postman, Pytest, JUnit, DevTools
 - **Project Management**: Certified in **Scrum Fundamentals** for agile development practices.
 
 ---
