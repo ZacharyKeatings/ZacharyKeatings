@@ -11,9 +11,9 @@ Welcome to my GitHub profile! While most of my work is in private repositories, 
 I'm experienced in:
 
 - **Languages**: Python, JavaScript, Java, PHP, Ruby, Lua, C#, Shell, ASP.net
-- **Frontend**: HTML5, CSS3, JavaScript, React
+- **Frontend**: HTML5, CSS3, JavaScript, React, Angular, Ionic
 - **Backend**: Node.js, Express.js, PHP, ASP.net Core, Spring Boot
-- **Mobile Development**: Android Studio, Java, Kotlin, React Native, Expo
+- **Mobile Development**: Android Studio, Java, Kotlin, React Native, Expo, Ionic
 - **Databases**: MySQL, PostgreSQL, MongoDB
 - **Cloud & DevOps**: Microsoft Azure, AWS EC2, Docker, Docker Compose
 - **Tools & Platforms**:
@@ -55,7 +55,7 @@ A simple eCommerce site featuring items for sale with display name, description,
 
 - **Game development**: Currently working with **Godot** to develop 2D games using **GDScript** and **C#**.
 - **Web development**: Exploring new JavaScript frameworks and working on a new freelance project management solution at **LancersHub**.
-- **Mobile development**: Developing cross-platform apps using **React Native** and **Expo**, alongside native Android apps with **Java/Kotlin** in **Android Studio**.
+- **Mobile development**: Developing cross-platform apps using **React Native** and **Expo**, alongside native Android apps with **Java/Kotlin** in **Android Studio** and **PWA frameworks like Ionic with Angular**.
 - **Machine Learning**: Learning **Exploratory Data Analysis (EDA)**, model building, and evaluation using Python libraries like **NumPy**, **pandas**, **scikit-learn**, and **matplotlib**.
 - **DevOps & Cloud**: Expanding my expertise by running VMs in **Azure** and **AWS EC2** to deploy **Jenkins** and **SonarQube** for continuous integration and code quality analysis.
 - **Agile methodologies**: Applying **Scrum** principles to streamline development workflows and improve project outcomes.
