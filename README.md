@@ -39,11 +39,15 @@ I'm experienced in:
 
 ## 🔧 Projects I'm Proud Of
 
+### 📂 [DataDock](https://github.com/ZacharyKeatings/DataDock)
+
+A lightweight, self-hosted file sharing platform built with PHP and MySQL. Features include guest uploads, user accounts, file expiration, thumbnails, an admin panel, and brute-force protection. Designed for simplicity, performance, and easy customization. Currently at v1.1.0 with active development.
+
 ### 🎮 [Pykemon](https://github.com/ZacharyKeatings/Pykemon)
 A personal project where I use **Python** and **PyGame** to recreate the classic first-generation Pokémon games. This project is an ongoing endeavor to revive nostalgic experiences with modern coding techniques.
 
 ### 🎮 [Citadel of Whispers](https://github.com/ZacharyKeatings/Citadel-of-Whispers)
-A tile-based roguelike inspired by Rick Saada's "Castle of the Winds", written in **GDScript**. It features procedurally generated levels with planned additions such as turn-based combat, character progression, and permadeath. Currently in early development, feedback and contributions are welcome as new features are added incrementally.
+A tile-based roguelike inspired by Rick Saada's "Castle of the Winds", written in **C#**. It features procedurally generated levels with planned additions such as turn-based combat, character progression, and permadeath. Currently in early development, feedback and contributions are welcome as new features are added incrementally.
 
 
 ### 🛒 [Simple eCommerce Site](https://github.com/ZacharyKeatings/simple-ecommerce-site) 
