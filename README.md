@@ -1,47 +1,50 @@
 # Hi, I'm Zach Keatings! 👋
 
-**Developer | Problem Solver | Innovator**
+**Software Developer | Builder of Tools & Games | Self-Hosted Everything**
 
 ---
 
-Welcome to my GitHub profile! While most of my work is in private repositories, I'm always working on interesting projects and exploring new technologies. I enjoy crafting solutions, building games, and pushing the boundaries of my skills.
+Welcome! I’m a full-stack developer who loves building useful tools, game systems, and self-hosted platforms. Most of my work lives in private repos (for now), but I’m always pushing something forward — whether it's a game prototype in Godot or a DevOps tweak on my home lab.
 
-## 💻 Languages & Technologies
+## 🧠 Stack & Skills
 
-I'm experienced in:
+**Languages**  
+Python, JavaScript, Java, PHP, Kotlin, Ruby, Lua, C#, C++, Bash, Swift
 
-- **Languages**: Python, JavaScript, Java, PHP, Kotlin, Ruby, Lua, C#, C++, Shell, Swift
-- **Frontend**: HTML5, CSS3, JavaScript, React, Angular, Ionic
-- **Backend**: Node.js, Express.js, PHP, ASP.net Core, Spring Boot
-- **Mobile Development**: Android Studio, Java, Kotlin, React Native, Expo, Ionic
-- **Databases**: MySQL, PostgreSQL, MongoDB
-- **Cloud & DevOps**: Microsoft Azure, AWS EC2, Docker, Docker Compose
-- **Tools & Platforms**:
-  - **Version Control**: Git, GitHub
-  - **Operating Systems**: Linux, Windows, MacOS
-  - **CI/CD & Automation**: GitHub Actions, Jenkins, SonarQube
-  - **Game Development**: Godot Engine
-  - **Virtualization & Containers**: VMWare Workstation, Docker, VirtualBox, Qemu
-- **Testing & Debugging**: Postman, Pytest, JUnit, DevTools
-- **Project Management**: Certified in **Scrum Fundamentals** for agile development practices.
+**Frontend**  
+HTML5, CSS3, React, Angular, Ionic
 
----
+**Backend**  
+Node.js, Express, PHP, ASP.NET Core, Spring Boot
 
-## 🤖 Machine Learning & Data Science
+**Mobile**  
+React Native, Expo, Android (Java/Kotlin), Ionic
 
- - Libraries & Tools:
-    - Python: NumPy, pandas, scikit-learn, matplotlib
-    - Data Processing: Data cleaning, feature engineering, exploratory data analysis (EDA)
-    - Machine Learning: Classification, regression, clustering, model evaluation
-    - Visualization: Data visualization using matplotlib for insights and reports
+**Databases**  
+PostgreSQL, MySQL, MongoDB
+
+**Cloud & DevOps**  
+Docker, Docker Compose, AWS EC2, Azure, GitHub Actions, Jenkins, Traefik
+
+**Tools**  
+Linux, Git, Postman, Pytest, JUnit, SonarQube, Godot Engine, QEMU, VMWare
+
+**Project Management**  
+Scrum Fundamentals Certified | Agile-minded
 
 ---
 
 ## 🔧 Projects I'm Proud Of
 
-### 📂 [DataDock](https://github.com/ZacharyKeatings/DataDock)
+### 📂 [DataDock](https://github.com/ZacharyKeatings/DataDock) | [Demo](https://zachkeatings.com/datadock/)
 
 A lightweight, self-hosted file sharing platform built with PHP and MySQL. Features include guest uploads, user accounts, file expiration, thumbnails, an admin panel, and brute-force protection. Designed for simplicity, performance, and easy customization. Currently at v1.1.0 with active development.
+
+### 📈 Stock Ticker *(private repo)* | [Demo](https://tickerdemo.cinefiles.dev/)
+A multiplayer stock market board game inspired by the 1930s classic. Built with React + Material UI, backed by a Node.js + PostgreSQL API. Features real-time play with Socket.IO, dice rolls, player stats, achievements, and full cross-platform support (web + Android).
+
+### 👔 [LancersHub](https://github.com/ZacharyKeatings/LancersHub)
+A freelance project management tool for small teams and solo devs. Built with React, Node.js, PostgreSQL, and JWT auth. Supports project boards, messaging, time tracking, and invoice generation.
 
 ### 🎮 [Pykemon](https://github.com/ZacharyKeatings/Pykemon)
 A personal project where I use **Python** and **PyGame** to recreate the classic first-generation Pokémon games. This project is an ongoing endeavor to revive nostalgic experiences with modern coding techniques.
@@ -49,8 +52,7 @@ A personal project where I use **Python** and **PyGame** to recreate the classic
 ### 🎮 [Citadel of Whispers](https://github.com/ZacharyKeatings/Citadel-of-Whispers)
 A tile-based roguelike inspired by Rick Saada's "Castle of the Winds", written in **C#**. It features procedurally generated levels with planned additions such as turn-based combat, character progression, and permadeath. Currently in early development, feedback and contributions are welcome as new features are added incrementally.
 
-
-### 🛒 [Simple eCommerce Site](https://github.com/ZacharyKeatings/simple-ecommerce-site) 
+### 🛒 [Simple eCommerce Site](https://github.com/ZacharyKeatings/simple-ecommerce-site) | [Demo](https://zachkeatings.com/simple-ecommerce-site/)
 A simple eCommerce site featuring items for sale with display name, description, and price. Users can put items on sale and generate a QR code to visit the product page. Developed using **HTML/CSS**, **PHP**, and **JavaScript**.
 
 ---
