@@ -1,6 +1,6 @@
 # Hi, I'm Zach Keatings! 👋
 
-**Software Developer | Builder of Tools & Games | Self-Hosted Everything**
+**Full-Stack Developer • Game Builder • Self-Hosting Enthusiast**
 
 ---
 
