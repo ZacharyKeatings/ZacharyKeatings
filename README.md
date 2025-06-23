@@ -43,7 +43,7 @@ A lightweight, self-hosted file sharing platform built with PHP and MySQL. Featu
 ### 📈 Stock Ticker *(private repo)* | [Demo](https://tickerdemo.cinefiles.dev/)
 A multiplayer stock market board game inspired by the 1930s classic. Built with React + Material UI, backed by a Node.js + PostgreSQL API. Features real-time play with Socket.IO, dice rolls, player stats, achievements, and full cross-platform support (web + Android).
 
-### 👔 [LancersHub](https://github.com/ZacharyKeatings/LancersHub)
+### 👔 [LancersHub](https://github.com/ZacharyKeatings/LancersHub) | [Demo](https://lancershub.cinefiles.dev/)
 A freelance project management tool for small teams and solo devs. Built with React, Node.js, PostgreSQL, and JWT auth. Supports project boards, messaging, time tracking, and invoice generation.
 
 ### 🎮 [Pykemon](https://github.com/ZacharyKeatings/Pykemon)
