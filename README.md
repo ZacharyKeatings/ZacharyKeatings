@@ -57,7 +57,7 @@ A multiplayer stock market board game based on the 1930s classic. React frontend
 ### DataDock  
 [![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/ZacharyKeatings/DataDock)
 [![Demo](https://img.shields.io/badge/Live_Demo-Visit-success?style=for-the-badge)](https://zachkeatings.com/datadock/)
-![Version](https://img.shields.io/badge/Version-1.1.0-blue?style=for-the-badge)
+![Version](https://img.shields.io/badge/Version-1.2.1-blue?style=for-the-badge)
 
 A lightweight, self-hosted file sharing platform. Guest uploads, expiring links, QR codes, admin panel, and brute-force protection.
 
