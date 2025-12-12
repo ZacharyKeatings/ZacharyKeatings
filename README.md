@@ -28,7 +28,7 @@ I build full-stack software, game systems, and self-hosted tooling. Most of my w
 <div align="center">
 
 ### Core Languages  
-<img src="https://skillicons.dev/icons?i=python,js,java,php,kotlin,cs,cpp,ruby,lua,bash,swift" />
+<img src="https://skillicons.dev/icons?i=python,ts,js,java,php,kotlin,cs,cpp,ruby,lua,bash,swift" />
 
 ### Frontend  
 <img src="https://skillicons.dev/icons?i=html,css,react,angular" />
