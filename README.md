@@ -5,7 +5,7 @@ Full-Stack Developer • Game Builder • Self-Hosting Enthusiast
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/zach-keatings/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome)](https://zachkeatings.com)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:zach@zachkeatings.com)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:github@zachkeatings.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ZacharyKeatings&color=blueviolet&style=flat-square)
 
