@@ -3,9 +3,9 @@
 # Zach Keatings  
 Full-Stack Developer • Game Builder • Self-Hosting Enthusiast  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/zach-keatings/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome)](https://zachkeatings.com)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:github@zachkeatings.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/zach-keatings/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://zachkeatings.com)
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:github@zachkeatings.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ZacharyKeatings&color=blueviolet&style=flat-square)
 
@@ -46,7 +46,7 @@ I build full-stack software, game systems, and self-hosted tooling. Most of my w
 ## Featured Projects
 
 ### Stock Ticker *(Private Repo)*  
-[![Demo](https://img.shields.io/badge/Live_Demo-Visit-success?style=for-the-badge)](https://tickerdemo.cinefiles.dev/)
+[![Demo](https://img.shields.io/badge/View-Demo-green)](https://tickerdemo.cinefiles.dev/)
 
 A multiplayer stock market board game based on the 1930s classic. React frontend, Node and PostgreSQL backend, and real-time networking with Socket.IO.
 
@@ -55,9 +55,9 @@ A multiplayer stock market board game based on the 1930s classic. React frontend
 ---
 
 ### DataDock  
-[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/ZacharyKeatings/DataDock)
-[![Demo](https://img.shields.io/badge/Live_Demo-Visit-success?style=for-the-badge)](https://zachkeatings.com/datadock/)
-![Version](https://img.shields.io/badge/Version-1.3.0-blue?style=for-the-badge)
+[![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/ZacharyKeatings/DataDock)
+[![Demo](https://img.shields.io/badge/View-Demo-green)](https://zachkeatings.com/datadock/)
+![Version](https://img.shields.io/github/v/release/ZacharyKeatings/DataDock)
 
 A lightweight, self-hosted file sharing platform. Guest uploads, expiring links, QR codes, admin panel, and brute-force protection.
 
@@ -66,8 +66,8 @@ A lightweight, self-hosted file sharing platform. Guest uploads, expiring links,
 ---
 
 ### LancersHub  
-[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/ZacharyKeatings/LancersHub)
-[![Demo](https://img.shields.io/badge/Live_Demo-Visit-success?style=for-the-badge)](https://lancershub.cinefiles.dev/)
+[![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/ZacharyKeatings/LancersHub)
+[![Demo](https://img.shields.io/badge/View-Demo-green)](https://lancershub.cinefiles.dev/)
 
 A freelance project management tool for small teams. Project boards, messaging, time tracking, and invoices. Built end-to-end with React and Node.
 
@@ -76,8 +76,8 @@ A freelance project management tool for small teams. Project boards, messaging, 
 ---
 
 ### Mastermind  
-[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/ZacharyKeatings/Mastermind)
-[![Demo](https://img.shields.io/badge/Live_Demo-Visit-success?style=for-the-badge)](https://mastermind.zachkeatings.com/)
+[![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/ZacharyKeatings/Mastermind)
+[![Demo](https://img.shields.io/badge/View-Demo-green)](https://mastermind.zachkeatings.com/)
 
 A classic code-breaking puzzle game built with vanilla JavaScript. Features customizable difficulty (up to 16 colors), color blind mode, timer tracking, and shareable PNG results generated via Canvas API.
 
@@ -86,7 +86,7 @@ A classic code-breaking puzzle game built with vanilla JavaScript. Features cust
 ---
 
 ### Pykemon  
-[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/ZacharyKeatings/Pykemon)
+[![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/ZacharyKeatings/Pykemon)
 
 A Python + PyGame recreation of the classic Gen 1 Pokémon titles. Pure hobby project that keeps growing.
 
@@ -95,7 +95,7 @@ A Python + PyGame recreation of the classic Gen 1 Pokémon titles. Pure hobby pr
 ---
 
 ### Citadel of Whispers  
-[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/ZacharyKeatings/Citadel-of-Whispers)
+[![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/ZacharyKeatings/Citadel-of-Whispers)
 
 A tile-based C# roguelike inspired by Castle of the Winds. Procedural floors and a growing combat and progression system.
 
@@ -104,8 +104,8 @@ A tile-based C# roguelike inspired by Castle of the Winds. Procedural floors and
 ---
 
 ### Simple eCommerce  
-[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/ZacharyKeatings/simple-ecommerce-site)
-[![Demo](https://img.shields.io/badge/Live_Demo-Visit-success?style=for-the-badge)](https://zachkeatings.com/simple-ecommerce-site/)
+[![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/ZacharyKeatings/simple-ecommerce-site)
+[![Demo](https://img.shields.io/badge/View-Demo-green)](https://zachkeatings.com/simple-ecommerce-site/)
 
 A straightforward storefront with product pages, sales toggles, and QR code generation.
 
