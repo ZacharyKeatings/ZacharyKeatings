@@ -31,7 +31,7 @@ I build full-stack software, game systems, and self-hosted tooling. Most of my w
 <img src="https://skillicons.dev/icons?i=python,ts,js,java,php,kotlin,cs,cpp,ruby,lua,bash" />
 
 ### Frontend  
-<img src="https://skillicons.dev/icons?i=html,css,react,angular" />
+<img src="https://skillicons.dev/icons?i=html,css,react,angular,svelte" />
 
 ### Backend & Databases  
 <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,mongodb" />
