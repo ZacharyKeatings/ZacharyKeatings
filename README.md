@@ -1,7 +1,7 @@
 <div align="center">
 
 # Zach Keatings  
-Full-Stack Developer • Game Builder • Self-Hosting Enthusiast  
+Software Developer • Systems & Infrastructure • Game Development 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/zach-keatings/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://zachkeatings.com)
@@ -11,7 +11,7 @@ Full-Stack Developer • Game Builder • Self-Hosting Enthusiast
 
 ---
 
-### Building games, tools, and self-hosted systems one project at a time.
+### Building software, systems, and the occasional game.
 
 </div>
 
@@ -19,7 +19,11 @@ Full-Stack Developer • Game Builder • Self-Hosting Enthusiast
 
 ## About Me
 
-I build full-stack software, game systems, and self-hosted tooling. Most of my work runs in private repos while I polish and ship features, but the public projects below give a good slice of what I create. I like systems that scale cleanly and codebases that behave themselves.
+I'm a software developer building applications for hardware-connected systems, working with Python, Linux, Bluetooth and GNSS integrations, deployment tooling, and observability.
+
+Professionally, I work in established production codebases, developing features, debugging problems across software and hardware boundaries, improving engineering workflows, and contributing to system architecture.
+
+Outside of work, I build full-stack applications and games, experiment with infrastructure and self-hosted technologies, and explore projects where application development and systems engineering overlap.
 
 ---
 
@@ -27,17 +31,19 @@ I build full-stack software, game systems, and self-hosted tooling. Most of my w
 
 <div align="center">
 
-### Core Languages  
-<img src="https://skillicons.dev/icons?i=python,ts,js,java,php,kotlin,cs,cpp,ruby,lua,bash" />
+### Languages  
+<img src="https://skillicons.dev/icons?i=python,ts,js,java,kotlin,cs,php,dart,bash" />
 
-### Frontend  
-<img src="https://skillicons.dev/icons?i=html,css,react,angular,svelte" />
+### Application Development  
+<img src="https://skillicons.dev/icons?i=html,css,react,angular,svelte,nodejs,express,flutter" />
 
-### Backend & Databases  
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,mongodb" />
+### Data  
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
 
-### Cloud & DevOps  
-<img src="https://skillicons.dev/icons?i=docker,aws,githubactions,linux" />
+### Systems & DevOps  
+<img src="https://skillicons.dev/icons?i=docker,git,githubactions,linux" />
+
+I also work with Grafana, Prometheus, Bluetooth, GNSS, REST APIs, Socket.IO, Docker Compose, and CI/CD pipelines.
 
 </div>
 
@@ -88,7 +94,7 @@ A classic code-breaking puzzle game built with vanilla JavaScript. Features cust
 ### Pykemon  
 [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/ZacharyKeatings/Pykemon)
 
-A Python + PyGame recreation of the classic Gen 1 Pokémon titles. Pure hobby project that keeps growing.
+A Python and PyGame recreation inspired by classic Gen 1 Pokémon titles, built to explore RPG systems and game development.
 
 **Tech:** `Python` `PyGame` `Game Development`
 
@@ -97,16 +103,6 @@ A Python + PyGame recreation of the classic Gen 1 Pokémon titles. Pure hobby pr
 ### Citadel of Whispers  
 [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/ZacharyKeatings/Citadel-of-Whispers)
 
-A tile-based C# roguelike inspired by Castle of the Winds. Procedural floors and a growing combat and progression system.
+A tile-based C# roguelike inspired by Castle of the Winds, featuring procedural dungeon generation, combat, and character progression.
 
 **Tech:** `C#` `Procedural Generation` `Game Development`
-
----
-
-### Simple eCommerce  
-[![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/ZacharyKeatings/simple-ecommerce-site)
-[![Demo](https://img.shields.io/badge/View-Demo-green)](https://zachkeatings.com/simple-ecommerce-site/)
-
-A straightforward storefront with product pages, sales toggles, and QR code generation.
-
-**Tech:** `HTML/CSS` `PHP` `JavaScript` `QR Codes`
