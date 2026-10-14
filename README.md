@@ -97,12 +97,3 @@ A classic code-breaking puzzle game built with vanilla JavaScript. Features cust
 A Python and PyGame recreation inspired by classic Gen 1 Pokémon titles, built to explore RPG systems and game development.
 
 **Tech:** `Python` `PyGame` `Game Development`
-
----
-
-### Citadel of Whispers  
-[![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/ZacharyKeatings/Citadel-of-Whispers)
-
-A tile-based C# roguelike inspired by Castle of the Winds, featuring procedural dungeon generation, combat, and character progression.
-
-**Tech:** `C#` `Procedural Generation` `Game Development`
